@@ -11,7 +11,7 @@ console.log(newNotes)
 function App() {
   return (<div>
     <Header />
-    <Note />
+    <Note title="Opa" content="Funcionando" />
     <Footer />
   </div>);
 }
